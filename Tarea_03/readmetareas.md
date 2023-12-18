@@ -1,0 +1,4 @@
+# README
+## Detalles Tarea 03
+La idea de esta tabla es poder ordenar mis entrenamientos con la idea de lograr un mejor rendimiento. La universidad y otras actividades a veces me desordenan mi entrenamiento. Es por eso que al ordenar mi progreso en el formato “pull-push-legs” (famoso en el mundo del culturismo) puedo obtener mejores resultados. Prioricé una semana de gimnasio para lograr un rendimiento regular, sin sobre exigencia ni alta intensidad y la idea fue contar la cantidad de ejercicios que merece cada porción muscular.
+Cabe recalcar que la toma de datos fue por medio de una bitácora física rellenada a medida que avanzaba el entrenamiento.

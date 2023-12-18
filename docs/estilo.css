@@ -1,0 +1,20 @@
+body {
+    background: #4cb1eb;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+a.contenido-secciones{
+	background: pink;
+	padding: 10px;
+}
+
+#seccion-1{
+	color: black;
+}
+
+.h2 {
+	color: blue;
+}

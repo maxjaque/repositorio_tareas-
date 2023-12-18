@@ -1,0 +1,3 @@
+# Decisiones
+Se decidió utilizar un gráfico de barras para que cada ejericio tenga una barra. Para los días se designó un color diferente para facilitar la identificación de estos y, por medio de esto, entender qué ejercicio realicé en cierto día.
+Considero que con esta visualización puedo lograr un mejor rendimiento y ordenar de mejor manera mi rutina semanal. La representación de mi semana en estos gráficos me otorgan una posibilidad de enender mejor y chequear mejor mi progreso.
