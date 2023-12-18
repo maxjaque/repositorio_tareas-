@@ -1,7 +1,7 @@
-﻿Zona/Día;Lunes;Martes;Miércoles ;Jueves;Viernes
-Bíceps;3 ejercicios;;;;2 ejercicios
-Tríceps;;3 ejercicios;;;
-Pierna;;;10 ejercicios;;
-Pecho-Deltoide;;5 ejercicios;;2 ejercicios;
-Espalda;4 ejercicios;;;;2 ejercicios
-Abdomen;1 ejercicio;;1 ejercicio;;4 ejercicios
+﻿Zona/Día,Lunes,Martes,Miércoles,Jueves,Viernes
+Bíceps,3 ejercicios,0,0,0,2 ejercicios
+Tríceps,0,3 ejercicios,0,0,0
+Pierna,0,0,10 ejercicios,0,0
+Pecho-Deltoide,0,5 ejercicios,0,0,0
+Espalda;4 ejercicios,0,0,0,2 ejercicios
+Abdomen;1 ejercicio,0,1 ejercicio,0,4 ejercicios
